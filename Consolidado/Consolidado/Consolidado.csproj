@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\ArborBinario\ArborBinario\ArborBinario.csproj" />
+    <ProjectReference Include="..\..\MelodiasPerfectas\MelodiasPerfectas\MelodiasPerfectas.csproj" />
+    <ProjectReference Include="..\..\SalvandoVidas\SalvandoVidas\SalvandoVidas.csproj" />
+    <ProjectReference Include="..\..\SPAROBLES\fase1\fase1.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SalvandoVidas/1.0.0": {
+        "runtime": {
+          "SalvandoVidas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SalvandoVidas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

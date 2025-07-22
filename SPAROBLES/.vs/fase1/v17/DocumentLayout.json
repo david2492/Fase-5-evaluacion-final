@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 1\\fase1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5BC1EE-FA1C-47D2-884E-47238F029C61}|fase1\\fase1.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 1\\fase1\\fase1\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5BC1EE-FA1C-47D2-884E-47238F029C61}|fase1\\fase1.csproj|solutionrelative:fase1\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5BC1EE-FA1C-47D2-884E-47238F029C61}|fase1\\fase1.csproj|E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 1\\fase1\\fase1\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B5BC1EE-FA1C-47D2-884E-47238F029C61}|fase1\\fase1.csproj|solutionrelative:fase1\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5BC1EE-FA1C-47D2-884E-47238F029C61}|fase1\\fase1.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 1\\fase1\\fase1\\datos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5BC1EE-FA1C-47D2-884E-47238F029C61}|fase1\\fase1.csproj|solutionrelative:fase1\\datos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5BC1EE-FA1C-47D2-884E-47238F029C61}|fase1\\fase1.csproj|E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 1\\fase1\\fase1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B5BC1EE-FA1C-47D2-884E-47238F029C61}|fase1\\fase1.csproj|solutionrelative:fase1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5BC1EE-FA1C-47D2-884E-47238F029C61}|fase1\\fase1.csproj|E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 1\\fase1\\fase1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5BC1EE-FA1C-47D2-884E-47238F029C61}|fase1\\fase1.csproj|solutionrelative:fase1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5BC1EE-FA1C-47D2-884E-47238F029C61}|fase1\\fase1.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 1\\fase1\\fase1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5BC1EE-FA1C-47D2-884E-47238F029C61}|fase1\\fase1.csproj|solutionrelative:fase1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5BC1EE-FA1C-47D2-884E-47238F029C61}|fase1\\fase1.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 1\\fase1\\fase1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5BC1EE-FA1C-47D2-884E-47238F029C61}|fase1\\fase1.csproj|solutionrelative:fase1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5BC1EE-FA1C-47D2-884E-47238F029C61}|fase1\\fase1.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 1\\fase1\\fase1\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5B5BC1EE-FA1C-47D2-884E-47238F029C61}|fase1\\fase1.csproj|solutionrelative:fase1\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Datos.Designer.cs",
+              "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 1\\fase1\\fase1\\Datos.Designer.cs",
+              "RelativeDocumentMoniker": "fase1\\Datos.Designer.cs",
+              "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 1\\fase1\\fase1\\Datos.Designer.cs*",
+              "RelativeToolTip": "fase1\\Datos.Designer.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwNQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:25:13.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 1\\fase1\\fase1\\Program.cs",
+              "RelativeDocumentMoniker": "fase1\\Program.cs",
+              "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 1\\fase1\\fase1\\Program.cs",
+              "RelativeToolTip": "fase1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:34:34.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 1\\fase1\\fase1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "fase1\\Form1.Designer.cs",
+              "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 1\\fase1\\fase1\\Form1.Designer.cs",
+              "RelativeToolTip": "fase1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:31:50.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 1\\fase1\\fase1\\Form1.resx",
+              "RelativeDocumentMoniker": "fase1\\Form1.resx",
+              "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 1\\fase1\\fase1\\Form1.resx",
+              "RelativeToolTip": "fase1\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-14T01:31:45.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 1\\fase1\\fase1\\Datos.cs",
+              "RelativeDocumentMoniker": "fase1\\Datos.cs",
+              "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 1\\fase1\\fase1\\Datos.cs",
+              "RelativeToolTip": "fase1\\Datos.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T22:45:57.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 1\\fase1\\fase1\\Form1.cs",
+              "RelativeDocumentMoniker": "fase1\\Form1.cs",
+              "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 1\\fase1\\fase1\\Form1.cs",
+              "RelativeToolTip": "fase1\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA5wBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:39:31.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Datos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 1\\fase1\\fase1\\Datos.cs",
+              "RelativeDocumentMoniker": "fase1\\Datos.cs",
+              "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 1\\fase1\\fase1\\Datos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "fase1\\Datos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:52:44.662Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 1\\fase1\\fase1\\Form1.cs",
+              "RelativeDocumentMoniker": "fase1\\Form1.cs",
+              "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 1\\fase1\\fase1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "fase1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:33:37.376Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

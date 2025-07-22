@@ -1,0 +1,33 @@
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\fase1\fase1\bin\Debug\fase1.exe.config
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\fase1\fase1\bin\Debug\fase1.exe
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\fase1\fase1\bin\Debug\fase1.pdb
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\fase1\fase1\obj\Debug\fase1.csproj.AssemblyReference.cache
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\fase1\fase1\obj\Debug\fase1.Form1.resources
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\fase1\fase1\obj\Debug\fase1.Properties.Resources.resources
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\fase1\fase1\obj\Debug\fase1.csproj.GenerateResource.cache
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\fase1\fase1\obj\Debug\fase1.csproj.CoreCompileInputs.cache
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\fase1\fase1\obj\Debug\fase1.exe
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\fase1\fase1\obj\Debug\fase1.pdb
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\fase1\fase1\obj\Debug\fase1.Datos.resources
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 1\fase1\fase1\bin\Debug\fase1.exe.config
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 1\fase1\fase1\bin\Debug\fase1.exe
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 1\fase1\fase1\bin\Debug\fase1.pdb
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 1\fase1\fase1\obj\Debug\fase1.csproj.AssemblyReference.cache
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 1\fase1\fase1\obj\Debug\fase1.Datos.resources
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 1\fase1\fase1\obj\Debug\fase1.Form1.resources
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 1\fase1\fase1\obj\Debug\fase1.Properties.Resources.resources
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 1\fase1\fase1\obj\Debug\fase1.csproj.GenerateResource.cache
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 1\fase1\fase1\obj\Debug\fase1.csproj.CoreCompileInputs.cache
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 1\fase1\fase1\obj\Debug\fase1.exe
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 1\fase1\fase1\obj\Debug\fase1.pdb
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\SPAROBLES\fase1\obj\Debug\fase1.csproj.AssemblyReference.cache
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\SPAROBLES\fase1\obj\Debug\fase1.exe
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\SPAROBLES\fase1\obj\Debug\fase1.pdb
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\SPAROBLES\fase1\bin\Debug\fase1.exe.config
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\SPAROBLES\fase1\bin\Debug\fase1.exe
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\SPAROBLES\fase1\bin\Debug\fase1.pdb
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\SPAROBLES\fase1\obj\Debug\fase1.frmDatos.resources
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\SPAROBLES\fase1\obj\Debug\fase1.Form1.resources
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\SPAROBLES\fase1\obj\Debug\fase1.Properties.Resources.resources
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\SPAROBLES\fase1\obj\Debug\fase1.csproj.GenerateResource.cache
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\SPAROBLES\fase1\obj\Debug\fase1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,166 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "ArborBinario/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ArborBinario.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArborBinario.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "fase1/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/fase1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/fase1.dll": {}
+        }
+      },
+      "MelodiasPerfectas/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/MelodiasPerfectas.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MelodiasPerfectas.dll": {}
+        }
+      },
+      "SalvandoVidas/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SalvandoVidas.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalvandoVidas.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "ArborBinario/1.0.0": {
+      "type": "project",
+      "path": "../../ArborBinario/ArborBinario/ArborBinario.csproj",
+      "msbuildProject": "../../ArborBinario/ArborBinario/ArborBinario.csproj"
+    },
+    "fase1/1.0.0": {
+      "type": "project",
+      "path": "../../SPAROBLES/fase1/fase1.csproj",
+      "msbuildProject": "../../SPAROBLES/fase1/fase1.csproj"
+    },
+    "MelodiasPerfectas/1.0.0": {
+      "type": "project",
+      "path": "../../MelodiasPerfectas/MelodiasPerfectas/MelodiasPerfectas.csproj",
+      "msbuildProject": "../../MelodiasPerfectas/MelodiasPerfectas/MelodiasPerfectas.csproj"
+    },
+    "SalvandoVidas/1.0.0": {
+      "type": "project",
+      "path": "../../SalvandoVidas/SalvandoVidas/SalvandoVidas.csproj",
+      "msbuildProject": "../../SalvandoVidas/SalvandoVidas/SalvandoVidas.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "ArborBinario >= 1.0.0",
+      "MelodiasPerfectas >= 1.0.0",
+      "SalvandoVidas >= 1.0.0",
+      "fase1 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Janus\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\Consolidado\\Consolidado\\Consolidado.csproj",
+      "projectName": "Consolidado",
+      "projectPath": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\Consolidado\\Consolidado\\Consolidado.csproj",
+      "packagesPath": "C:\\Users\\Janus\\.nuget\\packages\\",
+      "outputPath": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\Consolidado\\Consolidado\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Janus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\ArborBinario\\ArborBinario\\ArborBinario.csproj": {
+              "projectPath": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\ArborBinario\\ArborBinario\\ArborBinario.csproj"
+            },
+            "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\MelodiasPerfectas\\MelodiasPerfectas\\MelodiasPerfectas.csproj": {
+              "projectPath": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\MelodiasPerfectas\\MelodiasPerfectas\\MelodiasPerfectas.csproj"
+            },
+            "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\SalvandoVidas\\SalvandoVidas\\SalvandoVidas.csproj": {
+              "projectPath": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\SalvandoVidas\\SalvandoVidas\\SalvandoVidas.csproj"
+            },
+            "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\SPAROBLES\\fase1\\fase1.csproj": {
+              "projectPath": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\SPAROBLES\\fase1\\fase1.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

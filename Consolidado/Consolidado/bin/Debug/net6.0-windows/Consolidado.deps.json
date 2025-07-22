@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Consolidado/1.0.0": {
+        "dependencies": {
+          "ArborBinario": "1.0.0",
+          "MelodiasPerfectas": "1.0.0",
+          "SalvandoVidas": "1.0.0",
+          "fase1": "1.0.0"
+        },
+        "runtime": {
+          "Consolidado.dll": {}
+        }
+      },
+      "ArborBinario/1.0.0": {
+        "runtime": {
+          "ArborBinario.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "fase1/1.0.0": {
+        "runtime": {
+          "fase1.exe": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MelodiasPerfectas/1.0.0": {
+        "runtime": {
+          "MelodiasPerfectas.exe": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SalvandoVidas/1.0.0": {
+        "runtime": {
+          "SalvandoVidas.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consolidado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArborBinario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "fase1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MelodiasPerfectas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SalvandoVidas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
