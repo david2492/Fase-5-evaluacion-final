@@ -44,6 +44,7 @@
             this.txbNombre = new System.Windows.Forms.TextBox();
             this.txbNClase = new System.Windows.Forms.TextBox();
             this.cmbInstrumento = new System.Windows.Forms.ComboBox();
+            this.btnAtras = new System.Windows.Forms.Button();
             this.grbGenero.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -127,7 +128,7 @@
             // 
             // btnGuardar
             // 
-            this.btnGuardar.Location = new System.Drawing.Point(80, 248);
+            this.btnGuardar.Location = new System.Drawing.Point(48, 248);
             this.btnGuardar.Name = "btnGuardar";
             this.btnGuardar.Size = new System.Drawing.Size(75, 23);
             this.btnGuardar.TabIndex = 6;
@@ -137,7 +138,7 @@
             // 
             // btnCalcular
             // 
-            this.btnCalcular.Location = new System.Drawing.Point(200, 248);
+            this.btnCalcular.Location = new System.Drawing.Point(144, 248);
             this.btnCalcular.Name = "btnCalcular";
             this.btnCalcular.Size = new System.Drawing.Size(75, 23);
             this.btnCalcular.TabIndex = 7;
@@ -147,7 +148,7 @@
             // 
             // btnSalir
             // 
-            this.btnSalir.Location = new System.Drawing.Point(328, 248);
+            this.btnSalir.Location = new System.Drawing.Point(352, 248);
             this.btnSalir.Name = "btnSalir";
             this.btnSalir.Size = new System.Drawing.Size(75, 23);
             this.btnSalir.TabIndex = 8;
@@ -199,12 +200,23 @@
             this.cmbInstrumento.TabIndex = 13;
             this.cmbInstrumento.SelectedIndexChanged += new System.EventHandler(this.cmbInstrumento_SelectedIndexChanged);
             // 
+            // btnAtras
+            // 
+            this.btnAtras.Location = new System.Drawing.Point(248, 248);
+            this.btnAtras.Name = "btnAtras";
+            this.btnAtras.Size = new System.Drawing.Size(75, 23);
+            this.btnAtras.TabIndex = 14;
+            this.btnAtras.Text = "Atras";
+            this.btnAtras.UseVisualStyleBackColor = true;
+            this.btnAtras.Click += new System.EventHandler(this.btnAtras_Click);
+            // 
             // frmDatos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(492, 291);
+            this.ClientSize = new System.Drawing.Size(467, 291);
+            this.Controls.Add(this.btnAtras);
             this.Controls.Add(this.cmbInstrumento);
             this.Controls.Add(this.txbNClase);
             this.Controls.Add(this.txbNombre);
@@ -247,5 +259,6 @@
         private System.Windows.Forms.TextBox txbNombre;
         private System.Windows.Forms.TextBox txbNClase;
         private System.Windows.Forms.ComboBox cmbInstrumento;
+        private System.Windows.Forms.Button btnAtras;
     }
 }

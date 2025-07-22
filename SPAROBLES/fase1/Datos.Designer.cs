@@ -42,6 +42,7 @@
             this.cmbestrato = new System.Windows.Forms.ComboBox();
             this.btnsalir = new System.Windows.Forms.Button();
             this.btncargar = new System.Windows.Forms.Button();
+            this.Atras = new System.Windows.Forms.Button();
             this.grpservicio.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -185,12 +186,23 @@
             this.btncargar.UseVisualStyleBackColor = true;
             this.btncargar.Click += new System.EventHandler(this.btncargar_Click);
             // 
+            // Atras
+            // 
+            this.Atras.Location = new System.Drawing.Point(304, 8);
+            this.Atras.Name = "Atras";
+            this.Atras.Size = new System.Drawing.Size(75, 23);
+            this.Atras.TabIndex = 10;
+            this.Atras.Text = "Atras";
+            this.Atras.UseVisualStyleBackColor = true;
+            this.Atras.Click += new System.EventHandler(this.Atras_Click);
+            // 
             // frmDatos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(381, 450);
+            this.Controls.Add(this.Atras);
             this.Controls.Add(this.btnsalir);
             this.Controls.Add(this.btncargar);
             this.Controls.Add(this.cmbestrato);
@@ -225,5 +237,6 @@
         private System.Windows.Forms.ComboBox cmbestrato;
         private System.Windows.Forms.Button btncargar;
         private System.Windows.Forms.Button btnsalir;
+        private System.Windows.Forms.Button Atras;
     }
 }

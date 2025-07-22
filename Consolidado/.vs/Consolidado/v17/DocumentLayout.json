@@ -3,8 +3,29 @@
   "WorkspaceRootPath": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\Consolidado\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D4A34AC-AB2F-42D7-AE83-E10202A6EA9B}|Consolidado\\Consolidado.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 5\\consolidado\\consolidado\\consolidado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4A34AC-AB2F-42D7-AE83-E10202A6EA9B}|Consolidado\\Consolidado.csproj|solutionrelative:consolidado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D483FE2-06AB-43B3-1768-AA95F93B520C}|..\\SalvandoVidas\\SalvandoVidas\\SalvandoVidas.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 5\\consolidado\\salvandovidas\\salvandovidas\\estructuradatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D483FE2-06AB-43B3-1768-AA95F93B520C}|..\\SalvandoVidas\\SalvandoVidas\\SalvandoVidas.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 5\\consolidado\\salvandovidas\\salvandovidas\\estructuradatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9750ED88-9798-452F-ABA5-A317BB111FA8}|..\\MelodiasPerfectas\\MelodiasPerfectas\\MelodiasPerfectas.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 5\\consolidado\\melodiasperfectas\\melodiasperfectas\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9750ED88-9798-452F-ABA5-A317BB111FA8}|..\\MelodiasPerfectas\\MelodiasPerfectas\\MelodiasPerfectas.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 5\\consolidado\\melodiasperfectas\\melodiasperfectas\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5BC1EE-FA1C-47D2-884E-47238F029C61}|..\\SPAROBLES\\fase1\\fase1.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 5\\consolidado\\sparobles\\fase1\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5BC1EE-FA1C-47D2-884E-47238F029C61}|..\\SPAROBLES\\fase1\\fase1.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 5\\consolidado\\sparobles\\fase1\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33558461-A1D1-A750-F4D9-74C15E5E368E}|..\\ArborBinario\\ArborBinario\\ArborBinario.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 5\\consolidado\\arborbinario\\arborbinario\\arbolbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4A34AC-AB2F-42D7-AE83-E10202A6EA9B}|Consolidado\\Consolidado.csproj|E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\Consolidado\\consolidado\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D4A34AC-AB2F-42D7-AE83-E10202A6EA9B}|Consolidado\\Consolidado.csproj|solutionrelative:consolidado\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D4A34AC-AB2F-42D7-AE83-E10202A6EA9B}|Consolidado\\Consolidado.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 5\\consolidado\\consolidado\\consolidado\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -14,30 +35,18 @@
       "AbsoluteMoniker": "D:0:0:{5B5BC1EE-FA1C-47D2-884E-47238F029C61}|..\\SPAROBLES\\fase1\\fase1.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 5\\consolidado\\sparobles\\fase1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6D4A34AC-AB2F-42D7-AE83-E10202A6EA9B}|Consolidado\\Consolidado.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 5\\consolidado\\consolidado\\consolidado\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4A34AC-AB2F-42D7-AE83-E10202A6EA9B}|Consolidado\\Consolidado.csproj|solutionrelative:consolidado\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B5BC1EE-FA1C-47D2-884E-47238F029C61}|..\\SPAROBLES\\fase1\\fase1.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 5\\consolidado\\sparobles\\fase1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B5BC1EE-FA1C-47D2-884E-47238F029C61}|..\\SPAROBLES\\fase1\\fase1.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 5\\consolidado\\sparobles\\fase1\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9750ED88-9798-452F-ABA5-A317BB111FA8}|..\\MelodiasPerfectas\\MelodiasPerfectas\\MelodiasPerfectas.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 5\\consolidado\\melodiasperfectas\\melodiasperfectas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9750ED88-9798-452F-ABA5-A317BB111FA8}|..\\MelodiasPerfectas\\MelodiasPerfectas\\MelodiasPerfectas.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 5\\consolidado\\melodiasperfectas\\melodiasperfectas\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33558461-A1D1-A750-F4D9-74C15E5E368E}|..\\ArborBinario\\ArborBinario\\ArborBinario.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 5\\consolidado\\arborbinario\\arborbinario\\arbolbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D4A34AC-AB2F-42D7-AE83-E10202A6EA9B}|Consolidado\\Consolidado.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 5\\consolidado\\consolidado\\consolidado\\consolidado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D4A34AC-AB2F-42D7-AE83-E10202A6EA9B}|Consolidado\\Consolidado.csproj|solutionrelative:consolidado\\consolidado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33558461-A1D1-A750-F4D9-74C15E5E368E}|..\\ArborBinario\\ArborBinario\\ArborBinario.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 5\\consolidado\\arborbinario\\arborbinario\\arbolbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4A34AC-AB2F-42D7-AE83-E10202A6EA9B}|Consolidado\\Consolidado.csproj|E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\Consolidado\\consolidado\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6D4A34AC-AB2F-42D7-AE83-E10202A6EA9B}|Consolidado\\Consolidado.csproj|solutionrelative:consolidado\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D4A34AC-AB2F-42D7-AE83-E10202A6EA9B}|Consolidado\\Consolidado.csproj|e:\\jonathan\\unad\\6 semestre\\estructura de datos\\fase 5\\consolidado\\consolidado\\consolidado\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4A34AC-AB2F-42D7-AE83-E10202A6EA9B}|Consolidado\\Consolidado.csproj|solutionrelative:consolidado\\inicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,23 +56,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\MelodiasPerfectas\\MelodiasPerfectas\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\MelodiasPerfectas\\MelodiasPerfectas\\Form1.cs",
-              "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\MelodiasPerfectas\\MelodiasPerfectas\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\MelodiasPerfectas\\MelodiasPerfectas\\Form1.cs [Dise\u00F1o]",
+              "DocumentIndex": 0,
+              "Title": "EstructuraDatos.cs",
+              "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\SalvandoVidas\\SalvandoVidas\\EstructuraDatos.cs",
+              "RelativeDocumentMoniker": "..\\SalvandoVidas\\SalvandoVidas\\EstructuraDatos.cs",
+              "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\SalvandoVidas\\SalvandoVidas\\EstructuraDatos.cs",
+              "RelativeToolTip": "..\\SalvandoVidas\\SalvandoVidas\\EstructuraDatos.cs",
+              "ViewState": "AgIAAPQBAAAAAAAAAAD4vw4CAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T01:00:58.892Z",
+              "WhenOpened": "2025-07-22T02:12:47.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstructuraDatos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\SalvandoVidas\\SalvandoVidas\\EstructuraDatos.cs",
+              "RelativeDocumentMoniker": "..\\SalvandoVidas\\SalvandoVidas\\EstructuraDatos.cs",
+              "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\SalvandoVidas\\SalvandoVidas\\EstructuraDatos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\SalvandoVidas\\SalvandoVidas\\EstructuraDatos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T02:12:14.848Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\MelodiasPerfectas\\MelodiasPerfectas\\Datos.cs",
+              "RelativeDocumentMoniker": "..\\MelodiasPerfectas\\MelodiasPerfectas\\Datos.cs",
+              "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\MelodiasPerfectas\\MelodiasPerfectas\\Datos.cs",
+              "RelativeToolTip": "..\\MelodiasPerfectas\\MelodiasPerfectas\\Datos.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAjwHEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T02:12:02.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\SPAROBLES\\fase1\\Datos.cs",
+              "RelativeDocumentMoniker": "..\\SPAROBLES\\fase1\\Datos.cs",
+              "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\SPAROBLES\\fase1\\Datos.cs",
+              "RelativeToolTip": "..\\SPAROBLES\\fase1\\Datos.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAD4v10AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T02:09:17.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Datos.cs [Dise\u00F1o]",
               "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\SPAROBLES\\fase1\\Datos.cs",
               "RelativeDocumentMoniker": "..\\SPAROBLES\\fase1\\Datos.cs",
@@ -75,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\SPAROBLES\\fase1\\Form1.cs",
               "RelativeDocumentMoniker": "..\\SPAROBLES\\fase1\\Form1.cs",
@@ -88,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\SPAROBLES\\fase1\\Form1.cs",
               "RelativeDocumentMoniker": "..\\SPAROBLES\\fase1\\Form1.cs",
@@ -100,33 +148,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Inicio.cs",
               "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\Consolidado\\Consolidado\\Inicio.cs",
               "RelativeDocumentMoniker": "Consolidado\\Inicio.cs",
               "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\Consolidado\\Consolidado\\Inicio.cs",
               "RelativeToolTip": "Consolidado\\Inicio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T00:57:21.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\Consolidado\\Consolidado\\Program.cs",
-              "RelativeDocumentMoniker": "Consolidado\\Program.cs",
-              "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\Consolidado\\Consolidado\\Program.cs",
-              "RelativeToolTip": "Consolidado\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T00:49:35.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Inicio.cs [Dise\u00F1o]",
               "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\Consolidado\\Consolidado\\Inicio.cs",
               "RelativeDocumentMoniker": "Consolidado\\Inicio.cs",
@@ -135,6 +170,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T00:36:16.765Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArbolBinario.cs",
+              "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\ArborBinario\\ArborBinario\\ArbolBinario.cs",
+              "RelativeDocumentMoniker": "..\\ArborBinario\\ArborBinario\\ArbolBinario.cs",
+              "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\ArborBinario\\ArborBinario\\ArbolBinario.cs",
+              "RelativeToolTip": "..\\ArborBinario\\ArborBinario\\ArbolBinario.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAA9wG4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:32:55.028Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -151,32 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ArbolBinario.cs",
-              "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\ArborBinario\\ArborBinario\\ArbolBinario.cs",
-              "RelativeDocumentMoniker": "..\\ArborBinario\\ArborBinario\\ArbolBinario.cs",
-              "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\ArborBinario\\ArborBinario\\ArbolBinario.cs",
-              "RelativeToolTip": "..\\ArborBinario\\ArborBinario\\ArbolBinario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T00:32:55.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ArbolBinario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\ArborBinario\\ArborBinario\\ArbolBinario.cs",
-              "RelativeDocumentMoniker": "..\\ArborBinario\\ArborBinario\\ArbolBinario.cs",
-              "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\ArborBinario\\ArborBinario\\ArbolBinario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\ArborBinario\\ArborBinario\\ArbolBinario.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T06:59:13.708Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Datos.cs [Dise\u00F1o]",
               "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\MelodiasPerfectas\\MelodiasPerfectas\\Datos.cs",
               "RelativeDocumentMoniker": "..\\MelodiasPerfectas\\MelodiasPerfectas\\Datos.cs",
@@ -184,6 +207,31 @@
               "RelativeToolTip": "..\\MelodiasPerfectas\\MelodiasPerfectas\\Datos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T06:54:07.294Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Consolidado",
+              "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\Consolidado\\Consolidado\\Consolidado.csproj",
+              "RelativeDocumentMoniker": "Consolidado\\Consolidado.csproj",
+              "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\Consolidado\\Consolidado\\Consolidado.csproj",
+              "RelativeToolTip": "Consolidado\\Consolidado.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-22T01:47:36.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ArbolBinario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\ArborBinario\\ArborBinario\\ArbolBinario.cs",
+              "RelativeDocumentMoniker": "..\\ArborBinario\\ArborBinario\\ArbolBinario.cs",
+              "ToolTip": "E:\\JONATHAN\\UNAD\\6 SEMESTRE\\ESTRUCTURA DE DATOS\\FASE 5\\Consolidado\\ArborBinario\\ArborBinario\\ArbolBinario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\ArborBinario\\ArborBinario\\ArbolBinario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:59:13.708Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

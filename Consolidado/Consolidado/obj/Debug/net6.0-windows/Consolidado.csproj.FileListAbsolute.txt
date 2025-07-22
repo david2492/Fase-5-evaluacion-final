@@ -1,5 +1,4 @@
 E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\Consolidado\Consolidado\obj\Debug\net6.0-windows\Consolidado.csproj.AssemblyReference.cache
-E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\Consolidado\Consolidado\obj\Debug\net6.0-windows\Consolidado.Consolidado.resources
 E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\Consolidado\Consolidado\obj\Debug\net6.0-windows\Consolidado.csproj.GenerateResource.cache
 E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\Consolidado\Consolidado\obj\Debug\net6.0-windows\Consolidado.GeneratedMSBuildEditorConfig.editorconfig
 E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\Consolidado\Consolidado\obj\Debug\net6.0-windows\Consolidado.AssemblyInfoInputs.cache
@@ -32,3 +31,5 @@ E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\Consolidado\C
 E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\Consolidado\Consolidado\obj\Debug\net6.0-windows\Consolidado.pdb
 E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\Consolidado\Consolidado\obj\Debug\net6.0-windows\Consolidado.genruntimeconfig.cache
 E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\Consolidado\Consolidado\obj\Debug\net6.0-windows\ref\Consolidado.dll
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\Consolidado\Consolidado\obj\Debug\net6.0-windows\Consolidado.frmConsolidado.resources
+E:\JONATHAN\UNAD\6 SEMESTRE\ESTRUCTURA DE DATOS\FASE 5\Consolidado\Consolidado\Consolidado\obj\Debug\net6.0-windows\Consolidado.sourcelink.json

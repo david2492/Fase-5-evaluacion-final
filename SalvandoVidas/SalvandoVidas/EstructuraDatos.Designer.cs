@@ -69,6 +69,7 @@
             btnEliminarLista = new Button();
             btnReporteLista = new Button();
             dgLista = new DataGridView();
+            btnAtras = new Button();
             grpDatos.SuspendLayout();
             groupBox2.SuspendLayout();
             tabDatos.SuspendLayout();
@@ -511,11 +512,22 @@
             dgLista.Size = new Size(571, 91);
             dgLista.TabIndex = 28;
             // 
+            // btnAtras
+            // 
+            btnAtras.Location = new Point(368, 600);
+            btnAtras.Name = "btnAtras";
+            btnAtras.Size = new Size(75, 23);
+            btnAtras.TabIndex = 32;
+            btnAtras.Text = "Atras";
+            btnAtras.UseVisualStyleBackColor = true;
+            btnAtras.Click += button1_Click;
+            // 
             // frmEstructuraDatos
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(808, 641);
+            Controls.Add(btnAtras);
             Controls.Add(tabDatos);
             Controls.Add(grpDatos);
             Controls.Add(label2);
@@ -581,5 +593,6 @@
         private DataGridView dgLista;
         private Label label10;
         private TextBox txtCopago;
+        private Button btnAtras;
     }
 }

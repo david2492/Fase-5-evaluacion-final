@@ -518,5 +518,23 @@ namespace SalvandoVidas
 
             return null;
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Type tipoForm = Type.GetType("Consolidado.frmConsolidado, Consolidado");
+            if (tipoForm != null)
+            {
+                Form formConsol = (Form)Activator.CreateInstance(tipoForm);
+
+                this.Hide();
+
+                formConsol.FormClosed += (s, args) =>
+                {
+                    this.Show();
+                };
+
+                formConsol.Show();
+            }
+        }
     }
 }

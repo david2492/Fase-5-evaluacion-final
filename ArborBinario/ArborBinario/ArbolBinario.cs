@@ -8,10 +8,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using ArborBinario;
-using Consolidado;
 
 namespace ArborBinario
 {
+    
     public partial class frmArbolBinario : Form
     {
         private ArbolBinarioBusqueda arbol = new ArbolBinarioBusqueda();
@@ -95,8 +95,20 @@ namespace ArborBinario
 
         private void btnAtras_Click(object sender, EventArgs e)
         {
-            Consolidado.frmConsolidado frmConsolidado = new Consolidado.frmConsolidado();
-            frmConsolidado.Show();
+            Type tipoForm = Type.GetType("Consolidado.frmConsolidado, Consolidado");
+            if (tipoForm != null)
+            {
+                Form formConsol = (Form)Activator.CreateInstance(tipoForm);
+
+                this.Hide(); 
+
+                formConsol.FormClosed += (s, args) =>
+                {
+                    this.Show(); 
+                };
+
+                formConsol.Show(); 
+            }
         }
     }
 }

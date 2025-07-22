@@ -2,9 +2,11 @@ namespace Consolidado
 {
     public partial class frmConsolidado : Form
     {
+        
         public frmConsolidado()
         {
             InitializeComponent();
+
         }
 
         private void btnspa_Click(object sender, EventArgs e)
